@@ -1,1 +1,1 @@
-# Superlubric-Motion-of-Wave-like-Domain-Walls-in-Sliding-Ferroelectrics
+# Data for "Superlubric-Motion-of-Wave-like-Domain-Walls-in-Sliding-Ferroelectrics"
